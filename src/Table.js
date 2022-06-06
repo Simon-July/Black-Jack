@@ -286,7 +286,7 @@ export const Table = () => {
       },
       content: {
         position: "absolute",
-        width: "50%",
+        width: "75%",
         margin: "0 auto",
         backgroundColor: "white",
         padding: "1em"
@@ -387,7 +387,7 @@ export const Table = () => {
             <div className="tutorial">
             <h1 >BLACK JACKの遊び方</h1>
             </div>
-            <div className="tutorial-discription">
+            <div className="tutorial-description">
             <p>これはディーラーとあなたの勝負です。</p>
             <p>手札の合計が"21"に近い方が勝ちです。</p>
             <p>チップがなくなると、GAME OVERです。</p>
